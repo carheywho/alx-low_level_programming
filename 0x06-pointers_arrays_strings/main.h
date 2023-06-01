@@ -9,7 +9,7 @@ void reverse_array(int *a, int n);
 char *string_toupper(char *a);
 char *ca_string(char *a);
 char *leet(char *a);
-int _putchar(char(char );
+int _putchar(char c);
 
 #endif
 
